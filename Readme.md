@@ -3,6 +3,7 @@ Units return to original player at the end of the scenario
 
 For now only compaign with one human side are supported
 For now only one side can be added.
+For now only works in local
 
 After giving the 1st unit you should save and reload to asign a controller to the new side.
 
